@@ -1,0 +1,2 @@
+# SimuladorDeDado
+Avaliação
